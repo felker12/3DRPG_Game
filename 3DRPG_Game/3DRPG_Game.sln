@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DRPG_Game", "3DRPG_Game.csproj", "{005CEC17-DFC3-4B21-A450-707786AEEFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DRPG_Engine", "..\3DRPG_Engine\3DRPG_Engine.csproj", "{FEFD4A3F-CAA9-42B1-B675-4613A5A9A4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005CEC17-DFC3-4B21-A450-707786AEEFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005CEC17-DFC3-4B21-A450-707786AEEFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005CEC17-DFC3-4B21-A450-707786AEEFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005CEC17-DFC3-4B21-A450-707786AEEFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFD4A3F-CAA9-42B1-B675-4613A5A9A4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFD4A3F-CAA9-42B1-B675-4613A5A9A4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFD4A3F-CAA9-42B1-B675-4613A5A9A4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFD4A3F-CAA9-42B1-B675-4613A5A9A4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEA77BE-FF80-4CFB-9076-2E498F6400EC}
+	EndGlobalSection
+EndGlobal
